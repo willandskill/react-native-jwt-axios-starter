@@ -6,4 +6,4 @@ A simple React Native starter kit with
 * Axios for HTTP calls
 * JSON Web Token support in order to make backend calls
 
-The tutorial can be found [here](https://tech.willandskill.se/build-a-great-login-experience-with-react-native-axios-and-jsonwebtoken/)
+The tutorial can be found [here](https://willandskill.se/en/build-a-great-login-experience-with-react-native/)
